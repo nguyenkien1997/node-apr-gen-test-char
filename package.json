@@ -1,0 +1,17 @@
+{
+    "author": "Simon Chan",
+    "bugs": {
+        "url": "https://github.com/yume-chan/node-apr-gen-test-char/issues"
+    },
+    "description": "A node wrapper for apr gen-test-char executable",
+    "homepage": "https://github.com/yume-chan/node-apr-gen-test-char#readme",
+    "keywords": [],
+    "license": "MIT",
+    "main": "index.js",
+    "name": "node-apr-gen-test-char",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yume-chan/node-apr-gen-test-char.git"
+    },
+    "version": "0.0.1"
+}
