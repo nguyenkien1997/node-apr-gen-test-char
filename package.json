@@ -13,5 +13,8 @@
         "type": "git",
         "url": "git+https://github.com/yume-chan/node-apr-gen-test-char.git"
     },
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "devDependencies": {
+        "@types/node": "^9.3.0"
+    }
 }
